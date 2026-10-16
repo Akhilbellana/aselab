@@ -1,1 +1,1 @@
-As a user i want to get acces to the billing so that i can purchase my subscription
+As a user i want to save my intrested posts so that i can revisit them when i want
